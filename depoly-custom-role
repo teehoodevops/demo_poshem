@@ -1,0 +1,1 @@
+New-AzRoleDefinition -InputFile $HOME/az104-02a-customRoleDefinition.json
